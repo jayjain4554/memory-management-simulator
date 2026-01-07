@@ -8,7 +8,6 @@ A comprehensive C++ simulation of an Operating System's memory management unit, 
 
 ## 🚀 Features
 - **Allocation Strategies:** First Fit, Best Fit, and Worst Fit.
-- **Buddy System:** Power-of-two allocation and XOR coalescing.
 - **Virtual Memory:** Paging with address translation and Page Fault handling.
 - **Cache Simulation:** L1 Cache with LRU replacement and a **modified bit** for write tracking.
 
