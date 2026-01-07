@@ -1,4 +1,4 @@
-#include "Cache.h"
+#include "Cache.h" 
 
 Cache::Cache(int s, int ls) : size(s), line_size(ls), hits(0), misses(0) {
     num_lines = size / line_size;
