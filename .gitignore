@@ -2,4 +2,4 @@
 *.o
 *.out
 memsim
-simulation_log.txt
+simulation_log.txt 
