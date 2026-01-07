@@ -1,0 +1,11 @@
+init memory 1024
+set allocator best fit
+malloc 128
+malloc 256
+malloc 64
+access 50
+access 50
+free 2
+stats
+dump
+exit
